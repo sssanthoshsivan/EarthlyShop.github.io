@@ -21,9 +21,10 @@ To see the live demo of the website, visit [live demo](https://sssanthoshsivan.g
 To explore the code and make modifications, follow these steps:
 
 1. Clone the repository:
-'''
+
+```
 git clone https://github.com/sssanthoshsivan/earthlyshop.github.io.git
-'''
+```
 
 2. Open the project in your preferred code editor.
 
