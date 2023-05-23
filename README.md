@@ -48,6 +48,4 @@ Contributions are welcome! If you'd like to contribute with My Website Design , 
 
 5. Submit a pull request with a clear description of your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+# THANK YOU !!
